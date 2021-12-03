@@ -50,7 +50,7 @@ class ARGameView : ARView, ARSessionDelegate {
     
     var uiViewState : ARViewState!
     
-    private let pairsNeeded = 2
+    private let pairsNeeded = 3
     var pairsFound = 0
 
     var tapCount : Int = 0

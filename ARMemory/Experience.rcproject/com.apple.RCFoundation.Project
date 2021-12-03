@@ -343,6 +343,162 @@
                                     {
                                       "configurationBox" : {
                                         "configuration" : {
+                                          "target" : [
+                                            "37F0A270-FBC4-4BB4-90F5-457EC14E7DD5"
+                                          ],
+                                          "userIdentifier" : "cupFlip"
+                                        },
+                                        "name" : {
+                                          "type" : "custom"
+                                        }
+                                      },
+                                      "identifier" : "5DB6E256-B8DA-4D02-8048-7E506ECE532D",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "C78DB471-7DD9-461D-A958-64C474F39B0A",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.49019607901573181,
+                        0.7450980544090271,
+                        0.94901961088180542,
+                        1
+                      ],
+                      "identifier" : "34F4AFE9-4D76-4120-901E-143A9F33DC9A",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "skullFlipNotif 1",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "37F0A270-FBC4-4BB4-90F5-457EC14E7DD5"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "F66D9C50-77DF-4C3F-A22E-3AA8080D7B4F",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "target" : [
+                                            "87240C8D-553E-4491-8AED-FDD24CD30B8B"
+                                          ],
+                                          "userIdentifier" : "cupFlip"
+                                        },
+                                        "name" : {
+                                          "type" : "custom"
+                                        }
+                                      },
+                                      "identifier" : "E1439FF5-AC55-45F2-885F-B188D8A6B46F",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "F290CC2E-E645-4303-8C3C-3BB3C3B9D1B8",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.56078433990478516,
+                        0.47058823704719543,
+                        0.80392158031463623,
+                        1
+                      ],
+                      "identifier" : "F737028C-6423-4A8E-88A7-B0B10FCB9AB4",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "skullFlipNotif 2",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "87240C8D-553E-4491-8AED-FDD24CD30B8B"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "F598CA6D-FA7B-4FFD-A306-12B5F26814AD",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
                                           "angularCoefficient" : 1,
                                           "duration" : 1,
                                           "isTransformInitKeyPath" : true,
@@ -364,7 +520,9 @@
                                             "3A459963-68DA-4E1A-8F52-05DA6ACC95B5",
                                             "1EC1C8B8-8016-4A6D-B6C8-E41DA85E1019",
                                             "81404915-9A44-4F99-BF7D-FC0E29187854",
-                                            "0CBF0268-AAFE-4413-BAD6-A542AD0812F4"
+                                            "0CBF0268-AAFE-4413-BAD6-A542AD0812F4",
+                                            "87240C8D-553E-4491-8AED-FDD24CD30B8B",
+                                            "37F0A270-FBC4-4BB4-90F5-457EC14E7DD5"
                                           ]
                                         },
                                         "name" : {
@@ -398,7 +556,9 @@
                                             "3A459963-68DA-4E1A-8F52-05DA6ACC95B5",
                                             "1EC1C8B8-8016-4A6D-B6C8-E41DA85E1019",
                                             "81404915-9A44-4F99-BF7D-FC0E29187854",
-                                            "0CBF0268-AAFE-4413-BAD6-A542AD0812F4"
+                                            "0CBF0268-AAFE-4413-BAD6-A542AD0812F4",
+                                            "87240C8D-553E-4491-8AED-FDD24CD30B8B",
+                                            "37F0A270-FBC4-4BB4-90F5-457EC14E7DD5"
                                           ],
                                           "userIdentifier" : "boardFlipped"
                                         },
@@ -1972,7 +2132,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "setSphere2"
+                            "value" : "setSKULL2"
                           }
                         ]
                       ]
@@ -2201,7 +2361,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "setTV1"
+                            "value" : "setSKULL1"
                           }
                         ]
                       ]
@@ -2290,9 +2450,9 @@
                         -0.2368272989988327,
                         -8.6086214423630736e-07,
                         0,
-                        0.032868590205907822,
-                        0.10344309359788895,
-                        0.0094878626987338066,
+                        0.096736326813697815,
+                        0.10551687330007553,
+                        0.0094877425581216812,
                         1
                       ]
                     }
@@ -2385,9 +2545,9 @@
                         -0.2368272989988327,
                         -8.6086214423630736e-07,
                         0,
-                        0.09673646092414856,
-                        0.1055169552564621,
-                        0.0094877183437347412,
+                        0.032868780195713043,
+                        0.10344318300485611,
+                        0.0094877062365412712,
                         1
                       ]
                     }
